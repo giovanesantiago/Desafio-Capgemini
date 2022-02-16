@@ -28,6 +28,12 @@ function validar (senha) {
 }
 
 
+function teste() { 
+    const array = ['D1*d', 'D*dsdD', "D*1TD2", "d*1td2", "D11tD2", "D*1td2"]
+    for(var i in array ) {
+        console.log(validar(array[i]))
+        console.log(i)
+    }
+}
 
-
-console.log(validar(senha))
+teste()
