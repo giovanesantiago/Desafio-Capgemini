@@ -1,6 +1,25 @@
 # Desafio-Capgemini
 
     Repositorio criado com intuito de publicar e disponibilizar o desafio.
+---
+## Requisitos 
+Ter instalado em sua máquina as seguintes ferramentas: Git e Node.js.
+
+---
+## Executar projeto 
+ 1. Clone este repositorio em sua maquina utilizando o gitbash:
+ 
+``` 
+git clone https://github.com/giovanesantiago/Desafio-Capgemini.git
+```
+
+2. Acesse a pasta do projeto e execute cada aplicação com o codigo no terminal de sua preferencia:
+
+``` 
+node (nome-arquivo).js
+```
+
+
 
 ## Detalhes sobre os Algoritmos 
 
