@@ -1,5 +1,4 @@
-// Variavel para entrada da senha
-const senha = "Ya3iab"
+const senha = "Ya3iab" // Variavel para entrada da senha
 
 
 // função para validar senha
